@@ -1,8 +1,6 @@
 # fasta_length_hist
-Script to plot the histogram of fasta lengths
 
-"""
-Script to plot the distribution of lengths of a fasta file.
+Script to plot the histogram of fasta lengths
 
 
 You can use this script from the shell like this:
