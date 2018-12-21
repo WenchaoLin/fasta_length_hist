@@ -35,4 +35,7 @@ Here we plot the distribution of sequence lengths from a FASTA file `sample.fast
 `python fasta_length_hist.py --input sample.fasta -of png --xmin 200 --xmax 600 --grid`
 
 
+## Output
 
+
+![Image of Examples](https://github.com/WenchaoLin/fasta_length_hist/blob/master/seqHist.png?raw=true)
